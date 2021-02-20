@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luis Henao Ortiz\\source\\repos\\Sales\\Sales-System.csproj",
-      "projectName": "Sales-System",
-      "projectPath": "C:\\Users\\Luis Henao Ortiz\\source\\repos\\Sales\\Sales-System.csproj",
+      "projectUniqueName": "C:\\Users\\Luis Henao Ortiz\\source\\repos\\Sales\\Sales.csproj",
+      "projectName": "Sales",
+      "projectPath": "C:\\Users\\Luis Henao Ortiz\\source\\repos\\Sales\\Sales.csproj",
       "packagesPath": "C:\\Users\\Luis Henao Ortiz\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Luis Henao Ortiz\\source\\repos\\Sales\\obj\\",
       "projectStyle": "PackageReference",

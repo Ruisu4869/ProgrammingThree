@@ -6,5 +6,7 @@ namespace Sales
 {
     class Product
     {
+        public string nameProduct;
+        public float price;
     }
 }

@@ -6,6 +6,7 @@ namespace Sales
 {
     class Seller
     {
-        
+        public string name;
+        public int age;
     }
 }
